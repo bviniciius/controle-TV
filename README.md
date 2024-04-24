@@ -1,8 +1,6 @@
 ## CONTROLE DE TV EM PYTHON
 
-
-
--------------------------------------------------------------
+----------------------------------------------------------------------------------
 ## :house_with_garden: SOBRE O PROJETO
 
 É um sistema de controle de televisão, utilizando somente Python. Como funciona? O sistema funciona idêntico a um controle, ao executa o código, o sistema mostra volume atual, canal atual e a polegada da TV.
